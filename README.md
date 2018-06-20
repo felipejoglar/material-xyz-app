@@ -6,6 +6,10 @@
 
 This project is a redesign of an app to follow the Material Design guidelines and translate a set of static design mocks to a living and breathing app.
 
+<p align="center">
+<img src="https://github.com/fjoglar/material-xyz-app/blob/master/assets/screens.png" alt="Screens" style="width: 10px;"/>
+</p>
+
 
 ## Languages, libraries and tools used
 
